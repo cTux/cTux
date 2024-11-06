@@ -11,7 +11,9 @@ Leveraging AI tools to enhance workflows and improve efficiency where applicable
 * React, Redux, Context, hooks
 * Semantic HTML5, XHTML
 * CSS, SASS, styled components
-* Media Queries, Responsive and Adaptive layouts, Mobile-first layouts
+* Media queries, Container queries
+* Responsive and Adaptive layouts
+* Mobile-first
 
 ## Back-End skills
 
